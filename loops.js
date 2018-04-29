@@ -16,6 +16,8 @@ function whileLoop(n) {
 return "done";
 }
 
+maybeTrue() = ;
+
 function doWhileLoop(array) {
   do { array.pop()
     
