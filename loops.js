@@ -20,7 +20,7 @@ function doWhileLoop(array) {
   do {
     
   }
-  while 
+  while m
 }
 
 return array;
