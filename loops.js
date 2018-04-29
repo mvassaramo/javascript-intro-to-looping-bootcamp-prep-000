@@ -17,7 +17,9 @@ return "done";
 }
 
 function doWhileLoop(array) {
-  do
+  do {
+    
+  }
 }
 
 return array;
