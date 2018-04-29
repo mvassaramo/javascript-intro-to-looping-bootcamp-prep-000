@@ -18,7 +18,7 @@ return "done";
 
 function doWhileLoop(array) {
   function maybeTrue() {
-  return Math.pop() >= 0.5
+  return array.length > 0 && maybeTrue()
 }
 
 return array;
